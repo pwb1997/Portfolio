@@ -10,4 +10,11 @@ https://github.com/pwb1997/Stock-Tracker
 (Tried to deploy but the Yahoo stock api I used is depreciated)
 ## Vaporwave Generator
 https://github.com/pwb1997/Vaporwave-Generator
+
+## Human Vocal Sentiment Analysis
+A machine learning algorithm to extract emotions from human speech
+
+https://arxiv.org/abs/1905.08632
+
+https://github.com/sssss465/EmotionDetect
 ## A Simple Web Crawler for JJWXC
