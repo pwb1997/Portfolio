@@ -1,10 +1,14 @@
 # Portfolio
 Links to my previous works
 ## Air Ticket Reservation System
+An airline ticket reservation website with 3 different user scenerios: customer, airline staff, and booking agent
+
 https://github.com/pwb1997/AirTicketSys
 
 http://111.229.194.59:4200/
 ## Stock Tracker
+Tracks your stock portfolio
+
 https://github.com/pwb1997/Stock-Tracker
 
 (Tried to deploy but the Yahoo stock api I used is depreciated)
